@@ -1,0 +1,30 @@
+{
+  "name": "the-great-package",
+  "version": "2018.5.20",
+  "description": "The great NPM package. One to rule them all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djedr/the-great-package.git"
+  },
+  "keywords": [
+    "the",
+    "great",
+    "package",
+    "npm",
+    "one",
+    "to",
+    "rule",
+    "them",
+    "all"
+  ],
+  "author": "djedr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djedr/the-great-package/issues"
+  },
+  "homepage": "https://github.com/djedr/the-great-package#readme"
+}
